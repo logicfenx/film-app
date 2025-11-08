@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/film-app",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a film-app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/film-app.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://x-port.net/film-app/"
+    },
+    "homepage": "https://x-port.net/film-app/"
+}
